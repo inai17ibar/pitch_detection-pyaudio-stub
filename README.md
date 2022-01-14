@@ -1,0 +1,2 @@
+# pitch_detection-pyaudio-stub
+リアルタイムピッチ検出のPyaudioの部分をStubにしてWaveファイルでテスト可能にする
